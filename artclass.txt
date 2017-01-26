@@ -6,6 +6,9 @@ Testing how to create a new respository
 =======
 Wow this is so good. You are a master coder!
 
+Also a master poet
+=======
+
 But you type those words with ease,
 Flaunt them,
 Taunt them,
@@ -16,6 +19,5 @@ You will have an amazing time coding this semester!
 Get pumped!
 =======
 GREAT Coder!
-
 
 
