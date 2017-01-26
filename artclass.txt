@@ -1,2 +1,3 @@
-Art370
+Art370 and introducing GitHub
 New repository 
+Testing how to create a new respository 
